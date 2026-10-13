@@ -14,8 +14,8 @@
    pip install -r requirements.txt
    ```
 
-## 2. API key    #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
-Get an API key from https://console.anthropic.com/ and either:
+## 2. API key 
+Get an API key from https://console.anthropic.com/ and either(Can use any key , it can be from gemini or groq etc):
 - Set it as an environment variable `ANTHROPIC_API_KEY`, or
 - Paste it directly into the sidebar field when the app runs (not saved anywhere).
 
